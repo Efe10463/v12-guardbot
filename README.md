@@ -1,2 +1,5 @@
-# v12-guardbot
-Efe
+# Çalınması Yasaktır
+
+- Çalan Kodır Dil Anlamışşsen?
+
+- tamam
